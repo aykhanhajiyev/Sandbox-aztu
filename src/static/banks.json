@@ -1,0 +1,50 @@
+    [
+        {
+            "id": 1,
+            "name": "Kapital Bank",
+            "imageUrl": "https://www.kapitalbank.az/assets/static/img/content/elements/svg/Logo--main.svg",
+            "subtitle": "Kapital Bank Azərbaycan Əmanət Bankının varisi kimi 140 ildən çox, uğurla fəaliyyət göstərir."
+        },
+        {
+            "id": 2,
+            "name": "Uni Bank",
+            "imageUrl": "https://unibank.az/assets/img/logo.png",
+            "subtitle": "Unibank – Azərbaycanın 1992-ci ilin iyul ayında, ilkin olaraq MBank adı altında, təsis edilmiş ən iri özəl banklarından biridir."
+        },
+        {
+            "id": 3,
+            "name": "ABB Bank",
+            "imageUrl": "https://banco.az/sites/default/files/banklogo/1622034996_logo-yaziile.png",
+            "subtitle": "ABB bank sektoru üzrə regionun ən iri bankı olub, fərdi və korporativ müştərilərlə birgə, kiçik və orta sahibkarlığa innovativ bankçılıq xidmətləri göstərir."
+        },
+        {
+          "id": 4,
+          "name": "Yelo Bank",
+          "imageUrl": "https://www.yelo.az/site/templates/images/yelo-share.jpg",
+          "subtitle": "Bizim təcrübə və sizin etibarınız bizi Azərbaycanın ən güclü banklarından biri edir!"
+        },
+        {
+          "id": 5,
+          "name": "BTB Bank",
+          "imageUrl": "https://btb.az/img/logo.png",
+          "subtitle": "2010-cu ildə təsis edilmiş Bank “BTB” ASC (lisenziya №254) hüquqi və fiziki şəxslərə geniş çeşiddə universal bank məhsul və xidmətlərini təklif edir."
+        },
+        {
+          "id": 6,
+          "name": "Turan Bank",
+          "imageUrl": "https://www.turanbank.az/img/logo/logoold.png",
+          "subtitle": "Ölkənin aparıcı banklarından biri olan TuranBank ASC 2022-ci ilin yekunlarına əsasən maliyyə göstəriciləri üzrə bazar mövqeyini qoruyub saxlamışdır."
+        },
+        {
+          "id": 7,
+          "name": "Rabitə Bank",
+          "imageUrl": "https://www.rabitabank.com/images/rabitebank.svg",
+          "subtitle": "1993-cü ildə fəaliyyətə başlayan Rabitəbank, tezliklə iqtisadiyyatın müxtəlif sahələrini əhatə etməklə öz fəaliyyət dairəsini genişləndirmiş və universal banka çevrilmişdir."
+        },
+        {
+          "id": 8,
+          "name": "Xalq Bank",
+          "imageUrl": "https://www.xalqbank.az/_nuxt/img/xalq-bank.c27c406.svg",
+          "subtitle": "Dürüstlük və şəffaflıq, etimad və hörmət, sürət və operativlik, xidmətin yüksək keyfiyyəti və fərdi yanaşma işimizin əsas prinsipləridir."
+        }
+    ]
