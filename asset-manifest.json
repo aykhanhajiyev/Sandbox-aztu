@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sandbox-aztu/static/css/main.e6c13ad2.css",
+    "main.js": "/Sandbox-aztu/static/js/main.d6a70fa0.js",
+    "static/js/787.ab64e9c6.chunk.js": "/Sandbox-aztu/static/js/787.ab64e9c6.chunk.js",
+    "index.html": "/Sandbox-aztu/index.html",
+    "main.e6c13ad2.css.map": "/Sandbox-aztu/static/css/main.e6c13ad2.css.map",
+    "main.d6a70fa0.js.map": "/Sandbox-aztu/static/js/main.d6a70fa0.js.map",
+    "787.ab64e9c6.chunk.js.map": "/Sandbox-aztu/static/js/787.ab64e9c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d6a70fa0.js"
+  ]
+}
